@@ -13,7 +13,7 @@ Control Flow Graph
 ![image](https://github.com/Elenamarkov/SI_2023_lab2_216009/assets/127608687/670568f8-b331-4f7f-9bd5-d50c6c0c82a5)
 
 
-Тест случаи според критериумот Every path
+Тест случаи според критериумот Every branch
 ![image](https://github.com/Elenamarkov/SI_2023_lab2_216009/assets/127608687/5f9903ee-f0a8-42b9-bf73-6106347d1000)
 
 

@@ -14,8 +14,8 @@ Control Flow Graph
 
 
 Тест случаи според критериумот Every path
+![image](https://github.com/Elenamarkov/SI_2023_lab2_216009/assets/127608687/5f9903ee-f0a8-42b9-bf73-6106347d1000)
 
-![image](https://github.com/Elenamarkov/SI_2023_lab2_216009/assets/127608687/87269604-4091-4965-b31b-95342f8ee1b3)
 
 Сите тест случаи според Multiple Condition критериумот за условот if (user==null || user.getPassword()==null || user.getEmail()==null)
 

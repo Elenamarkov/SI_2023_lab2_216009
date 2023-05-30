@@ -20,8 +20,3 @@ Control Flow Graph
 Сите тест случаи според Multiple Condition критериумот за условот if (user==null || user.getPassword()==null || user.getEmail()==null)
 
 ![image](https://github.com/Elenamarkov/SI_2023_lab2_216009/assets/127608687/fd9db7f8-0885-418c-9455-9d0e818abc7a)
-
-
-
-Објаснување на напишаните unit tests
-... ...
